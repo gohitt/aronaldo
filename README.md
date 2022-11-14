@@ -17,14 +17,21 @@
 ### _Espero que você goste!!!_ 😉
 ##
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aronaldo&label=Profile%20views&color=0e75b6&style=flat" alt="aronaldo" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronaldo&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true" alt="aronaldo" /></a> </p>
+
 <div align="center">
   <a href="https://github.com/Aronaldo/aronaldo/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aronaldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronaldo&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
+</div><br></br>
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronaldo&theme=deepBlue&hide_border=true&border_radius=15&locale=pt-br" alt="aronaldo" /></p>
+
 ##
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aro-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Aro-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
