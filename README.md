@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&&pause=1000&color=0EFDDB&width=1000&lines=%E2%9C%A8Ol%C3%A1%2C+meu+nome+%C3%A9+Aronaldo!!!+%E2%9C%A8%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<table align="right">
- <tr><td><a href="https://github.com/Aronaldo/Aronaldo/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Aronaldo/Aronaldo/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
-</table>
-
 ## 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=833AB4&width=1000&lines=%F0%9F%98%84+Seja+Bem+Vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
