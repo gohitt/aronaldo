@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&&pause=1000&color=0EFDDB&width=1000&lines=%E2%9C%A8Ol%C3%A1%2C+meu+nome+%C3%A9+Aronaldo!!!+%E2%9C%A8%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&&pause=1000&color=0EFDDB&width=1000&lines=%E2%9C%A8Ol%C3%A1%2C+meu+nome+%C3%A9+Aronaldo!!!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 ## 
 
@@ -58,9 +58,12 @@
   <a href = "mailto:cmp.1a.aronaldoa1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aronaldo-ananias-9901521a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/Aronaldo/aronaldo/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/Aronaldo/aronaldo/blob/output/github-contribution-grid-snake.svg) 
+  
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%96+Livro+de+Visitas" alt="Typing SVG" /></a></h2>
+ <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FCB045&width=800&lines=Deixe+uma+mensagem+legal+para+mim+%E2%9C%8D%EF%B8%8F+%2C+ou+simplesmente+diga+que+passou+por+aqui%F0%9F%91%8B+!!" alt="Typing SVG" /></a> <a href="https://github.com/Aronaldo/aronaldo/issues/new?template=assinar-o-livro-de-visitas.md"> ✏️ Neste link</a>!</p>
  
 </div> 
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
 
