@@ -46,6 +46,8 @@
   <img align="center" alt="Aro-VSCode" height="110" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Aro-Ps" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Aro-Pr" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" />
+  <img align="right" alt="Git-pic" height="200";" src="surftocat.png?width=676&height=676">
+</div>
 </div>
   
 ##
