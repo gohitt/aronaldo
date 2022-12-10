@@ -27,7 +27,7 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronaldo&theme=deepBlue&hide_border=true&border_radius=15&locale=pt-br" alt="aronaldo" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aronaldo&theme=synthwave-84&radius=15&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aronaldo&theme=github-compact&hide_border=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
@@ -63,7 +63,7 @@
 ![Snake animation](https://github.com/Aronaldo/aronaldo/blob/output/github-contribution-grid-snake.svg) 
   
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%96+Livro+de+Visitas" alt="Typing SVG" /></a></h2>
- <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FCB045&width=800&lines=Deixe+uma+mensagem+legal+para+mim+%E2%9C%8D%EF%B8%8F+%2C+ou+simplesmente+diga+que+passou+por+aqui%F0%9F%91%8B+!!" alt="Typing SVG" /></a> <a href="https://github.com/Aronaldo/aronaldo/issues/new?template=assinar-o-livro-de-visitas.md"> ✏️ Neste link</a>!</p>
+ <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FCB045&width=800&lines=Deixe+uma+mensagem+legal+para+mim+%E2%9C%8D%EF%B8%8F+%2C+ou+simplesmente+diga+que+passou+por+aqui%F0%9F%91%8B+!!" alt="Typing SVG" /></a> <a href="https://github.com/Aronaldo/aronaldo/issues/new?template=assinar-o-livro-de-visitas.md"> ✏️Neste link</a>!</p>
  
 </div> 
   
