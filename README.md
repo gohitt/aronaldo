@@ -47,6 +47,11 @@
   <img align="center" alt="Aro-Ps" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Aro-Pr" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" />
   <img align="right" alt="Git-pic" height="200";" src="surftocat.png?width=676&height=676">
+  
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/53199542/208221844-36001371-8448-4578-91b9-308f0533f6ca.gif" width="250" height="250"/>
+  </div>
+  
 </div>
 </div>
   
