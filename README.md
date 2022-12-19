@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&&pause=1000&color=0EFDDB&width=1000&lines=%E2%9C%A8Ol%C3%A1%2C+meu+nome+%C3%A9+Aronaldo!!!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&&pause=1000&color=0EFDDB&width=1000&lines=OLÁ+MEU+NOME+é+Aronaldo!!!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="65px">
 
 ## 
 
