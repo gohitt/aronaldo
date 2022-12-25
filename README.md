@@ -36,6 +36,7 @@
 
  <div align="center">
  <img src="https://user-images.githubusercontent.com/53199542/208221844-36001371-8448-4578-91b9-308f0533f6ca.gif" width="250" height="250"/>
+ <img src="https://user-images.githubusercontent.com/53199542/208221844-36001371-8448-4578-91b9-308f0533f6ca.gif" width="250" height="250"/>
  </div>
   
 ##
@@ -50,7 +51,7 @@
   <img align="center" alt="Aro-VSCode" height="110" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Aro-Ps" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Aro-Pr" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
-  <img align="center" alt="Git-pic" height="185";" src="surftocat.png?width=70&height=70"/>
+  <img align="center" alt="Git-pic" height="150";" src="surftocat.png?width=70&height=70"/>
   </div>
  
   
