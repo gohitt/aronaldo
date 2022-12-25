@@ -36,9 +36,9 @@
 
  <div align="center">
  <img src="https://user-images.githubusercontent.com/53199542/208221844-36001371-8448-4578-91b9-308f0533f6ca.gif" width="250" height="250"/>
- <img src="https://user-images.githubusercontent.com/53199542/208221844-36001371-8448-4578-91b9-308f0533f6ca.gif" width="250" height="250"/>
+ <img alt="daftpunktocat-guy" src="https://user-images.githubusercontent.com/53199542/209483557-f6638584-b031-4576-a276-7d7a4f6fba1c.gif" width="250" height="250"/>
  </div>
-  
+ 
 ##
  
 <div style="display: inline_block"><br>
