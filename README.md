@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FCB045&multiline=true&width=1000&lines=Espero+que+voc%C3%AA+goste!!+E+volte+sempre!!!+%F0%9F%98%89+)](https://git.io/typing-svg)
 ##
 <div align="center" border-radius: 150px 150px 150px 150px;>
- <img alt="NUX_Octodex" src="https://user-images.githubusercontent.com/53199542/209569274-2f45fa83-81e8-4c02-ae35-5a883726a86c.gif" width="300" height="300" border-radius: "150px 150px 150px 150px";/>
+ <img alt="NUX_Octodex" src="https://user-images.githubusercontent.com/53199542/209569494-92a44b44-9abc-4816-a8a3-ffe658499111.gif" width="300" height="300" border-radius: "150px 150px 150px 150px";/>
  </div>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronaldo&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true" alt="aronaldo" /></a> </p>
