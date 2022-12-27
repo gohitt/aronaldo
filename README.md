@@ -23,11 +23,11 @@
 
 <div align="center">
   <a href="https://github.com/Aronaldo/aronaldo/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aronaldo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronaldo&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aronaldo/aronaldo/&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronaldo/aronaldo/&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div><br>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronaldo&theme=deepBlue&hide_border=true&border_radius=15&locale=pt-br" alt="aronaldo" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aronaldo/aronaldo/&theme=deepBlue&hide_border=true&border_radius=15&locale=pt-br" alt="aronaldo" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aronaldo&theme=github-compact&hide_border=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
